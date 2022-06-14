@@ -1,0 +1,18 @@
+*
+.navcss{
+    border-color: black;
+    border-bottom:1px solid;
+}
+.concss{
+    text-align: center;
+}
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.align{
+    text-align: left;
+}
